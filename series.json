@@ -1,1 +1,25 @@
-
+[
+  {
+    "id": 1399,
+    "temporadas": {
+      "1": {
+        "1": "https://tu-link.com/got-s1e1",
+        "2": "https://tu-link.com/got-s1e2",
+        "3": "https://tu-link.com/got-s1e3"
+      },
+      "2": {
+        "1": "https://tu-link.com/got-s2e1",
+        "2": "https://tu-link.com/got-s2e2"
+      }
+    }
+  },
+  {
+    "id": 66732,
+    "temporadas": {
+      "1": {
+        "1": "https://tu-link.com/stranger-s1e1",
+        "2": "https://tu-link.com/stranger-s1e2"
+      }
+    }
+  }
+]
