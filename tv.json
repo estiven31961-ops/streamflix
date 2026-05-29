@@ -1,7 +1,301 @@
 [
   {
     "nombre": "CARTOON NETWORK HD",
-    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/d32e347bb7c4c640dceec23957802ad9182f58a6/countries/argentina/cartoon-network-ar.png",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/cartoon-network-ar.png",
     "url": "http://45.166.93.156:9999/play/a0iu/index.m3u8"
-  }
+  },
+  {
+    "nombre": "DISCOVERY CHANNEL",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/discovery-channel-ar.png",
+    "url": "http://45.166.93.156:9999/play/a0i4/index.m3u8"
+  },
+  {
+    "nombre": "ESPN HD",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/espn-ar.png",
+    "url": "http://45.166.93.156:9999/play/a0db/index.m3u8"
+  },
+  {
+    "nombre": "Caracol HD",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/colombia/caracol-tv-co.png",
+    "url": "https://example.com/caracol.m3u8"
+  },
+  {
+    "nombre": "RCN HD",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/colombia/rcn-co.png",
+    "url": "https://example.com/rcn.m3u8"
+  },
+  {
+    "nombre": "Canal Uno",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/colombia/canal-1-co.png",
+    "url": "https://example.com/canal1.m3u8"
+  },
+  {
+    "nombre": "CityTV",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/colombia/citytv-co.png",
+    "url": "https://example.com/citytv.m3u8"
+  },
+  {
+    "nombre": "Teleantioquia",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/colombia/teleantioquia-co.png",
+    "url": "https://example.com/teleantioquia.m3u8"
+  },
+  {
+    "nombre": "Telecaribe",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/colombia/telecaribe-co.png",
+    "url": "https://example.com/telecaribe.m3u8"
+  },
+  {
+    "nombre": "Telepacífico",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/colombia/telepacifico-co.png",
+    "url": "https://example.com/telepacifico.m3u8"
+  },
+  {
+    "nombre": "Canal TRO",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/colombia/tro-co.png",
+    "url": "https://example.com/tro.m3u8"
+  },
+  {
+    "nombre": "Canal Capital",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/colombia/canal-capital-co.png",
+    "url": "https://example.com/capital.m3u8"
+  },
+  {
+    "nombre": "Telecafé",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/colombia/telecafe-co.png",
+    "url": "https://example.com/telecafe.m3u8"
+  },
+
+  {
+    "nombre": "Cartoon Network",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/cartoon-network-ar.png",
+    "url": "https://example.com/cartoon.m3u8"
+  },
+  {
+    "nombre": "Disney Channel",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/disney-channel-ar.png",
+    "url": "https://example.com/disney.m3u8"
+  },
+  {
+    "nombre": "Nickelodeon",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/nickelodeon-ar.png",
+    "url": "https://example.com/nick.m3u8"
+  },
+  {
+    "nombre": "Discovery Kids",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/discovery-kids-ar.png",
+    "url": "https://example.com/dkids.m3u8"
+  },
+  {
+    "nombre": "Boomerang",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/boomerang-ar.png",
+    "url": "https://example.com/boomerang.m3u8"
+  },
+
+  {
+    "nombre": "ESPN",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/espn-ar.png",
+    "url": "https://example.com/espn.m3u8"
+  },
+  {
+    "nombre": "ESPN 2",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/espn-2-ar.png",
+    "url": "https://example.com/espn2.m3u8"
+  },
+  {
+    "nombre": "ESPN 3",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/espn-3-ar.png",
+    "url": "https://example.com/espn3.m3u8"
+  },
+  {
+    "nombre": "Fox Sports",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fox-sports-ar.png",
+    "url": "https://example.com/foxsports.m3u8"
+  },
+  {
+    "nombre": "Win Sports",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/colombia/win-sports-co.png",
+    "url": "https://example.com/winsports.m3u8"
+  },
+
+  {
+    "nombre": "HBO",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/hbo-ar.png",
+    "url": "https://example.com/hbo.m3u8"
+  },
+  {
+    "nombre": "HBO 2",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/hbo-2-ar.png",
+    "url": "https://example.com/hbo2.m3u8"
+  },
+  {
+    "nombre": "Cinemax",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/cinemax-ar.png",
+    "url": "https://example.com/cinemax.m3u8"
+  },
+  {
+    "nombre": "Space",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/space-ar.png",
+    "url": "https://example.com/space.m3u8"
+  },
+  {
+    "nombre": "TNT",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/tnt-ar.png",
+    "url": "https://example.com/tnt.m3u8"
+  },
+
+  {
+    "nombre": "History",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/history-ar.png",
+    "url": "https://example.com/history.m3u8"
+  },
+  {
+    "nombre": "Discovery Channel",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/discovery-channel-ar.png",
+    "url": "https://example.com/discovery.m3u8"
+  },
+  {
+    "nombre": "National Geographic",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/national-geographic-ar.png",
+    "url": "https://example.com/natgeo.m3u8"
+  },
+  {
+    "nombre": "Animal Planet",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/animal-planet-ar.png",
+    "url": "https://example.com/animalplanet.m3u8"
+  },
+  {
+    "nombre": "TLC",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/tlc-ar.png",
+    "url": "https://example.com/tlc.m3u8"
+  },
+{
+"nombre": "AXN",
+"logo": "[https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/axn-ar.png](https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/axn-ar.png)",
+"url": "[https://example.com/axn.m3u8](https://example.com/axn.m3u8)"
+},
+{
+"nombre": "Sony Channel",
+"logo": "[https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/sony-ar.png](https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/sony-ar.png)",
+"url": "[https://example.com/sony.m3u8](https://example.com/sony.m3u8)"
+},
+{
+"nombre": "Warner Channel",
+"logo": "[https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/warner-channel-ar.png](https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/warner-channel-ar.png)",
+"url": "[https://example.com/warner.m3u8](https://example.com/warner.m3u8)"
+},
+{
+"nombre": "Universal TV",
+"logo": "[https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/universal-tv-ar.png](https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/universal-tv-ar.png)",
+"url": "[https://example.com/universal.m3u8](https://example.com/universal.m3u8)"
+},
+{
+"nombre": "Studio Universal",
+"logo": "[https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/studio-universal-ar.png](https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/studio-universal-ar.png)",
+"url": "[https://example.com/studio.m3u8](https://example.com/studio.m3u8)"
+},
+{
+"nombre": "Paramount Network",
+"logo": "[https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/paramount-network-ar.png](https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/paramount-network-ar.png)",
+"url": "[https://example.com/paramount.m3u8](https://example.com/paramount.m3u8)"
+},
+{
+"nombre": "A&E",
+"logo": "[https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/ae-ar.png](https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/ae-ar.png)",
+"url": "[https://example.com/ae.m3u8](https://example.com/ae.m3u8)"
+},
+{
+"nombre": "FX",
+"logo": "[https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fx-ar.png](https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fx-ar.png)",
+"url": "[https://example.com/fx.m3u8](https://example.com/fx.m3u8)"
+},
+{
+"nombre": "FXM",
+"logo": "[https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fxm-ar.png](https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fxm-ar.png)",
+"url": "[https://example.com/fxm.m3u8](https://example.com/fxm.m3u8)"
+},
+{
+"nombre": "AMC",
+"logo": "[https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/amc-ar.png](https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/amc-ar.png)",
+"url": "[https://example.com/amc.m3u8](https://example.com/amc.m3u8)"
+},
+{
+"nombre": "Golden",
+"logo": "[https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/golden-mx.png](https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/golden-mx.png)",
+"url": "[https://example.com/golden.m3u8](https://example.com/golden.m3u8)"
+},
+{
+"nombre": "Golden Edge",
+"logo": "[https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/golden-edge-mx.png](https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/golden-edge-mx.png)",
+"url": "[https://example.com/goldenedge.m3u8](https://example.com/goldenedge.m3u8)"
+},
+{
+"nombre": "TUDN",
+"logo": "[https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/tudn-mx.png](https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/tudn-mx.png)",
+"url": "[https://example.com/tudn.m3u8](https://example.com/tudn.m3u8)"
+},
+{
+"nombre": "TyC Sports",
+"logo": "[https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/tyc-sports-ar.png](https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/tyc-sports-ar.png)",
+"url": "[https://example.com/tyc.m3u8](https://example.com/tyc.m3u8)"
+},
+{
+"nombre": "DirecTV Sports",
+"logo": "[https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/directv-sports-ar.png](https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/directv-sports-ar.png)",
+"url": "[https://example.com/directvsports.m3u8](https://example.com/directvsports.m3u8)"
+},
+{
+"nombre": "CNN en Español",
+"logo": "[https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/cnn-en-espanol-ar.png](https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/cnn-en-espanol-ar.png)",
+"url": "[https://example.com/cnn.m3u8](https://example.com/cnn.m3u8)"
+},
+{
+"nombre": "DW Español",
+"logo": "[https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dw-de.png](https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dw-de.png)",
+"url": "[https://example.com/dw.m3u8](https://example.com/dw.m3u8)"
+},
+{
+"nombre": "France 24 Español",
+"logo": "[https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-24-fr.png](https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-24-fr.png)",
+"url": "[https://example.com/france24.m3u8](https://example.com/france24.m3u8)"
+},
+{
+"nombre": "MTV",
+"logo": "[https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/mtv-ar.png](https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/mtv-ar.png)",
+"url": "[https://example.com/mtv.m3u8](https://example.com/mtv.m3u8)"
+},
+{
+"nombre": "VH1",
+"logo": "[https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/vh1-ar.png](https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/vh1-ar.png)",
+"url": "[https://example.com/vh1.m3u8](https://example.com/vh1.m3u8)"
+},
+{
+"nombre": "Telemundo",
+"logo": "[https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/telemundo-us.png](https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/telemundo-us.png)",
+"url": "[https://example.com/telemundo.m3u8](https://example.com/telemundo.m3u8)"
+},
+{
+"nombre": "Univision",
+"logo": "[https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/univision-us.png](https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/univision-us.png)",
+"url": "[https://example.com/univision.m3u8](https://example.com/univision.m3u8)"
+},
+{
+"nombre": "Canal de las Estrellas",
+"logo": "[https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/las-estrellas-mx.png](https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/las-estrellas-mx.png)",
+"url": "[https://example.com/estrellas.m3u8](https://example.com/estrellas.m3u8)"
+},
+{
+"nombre": "Azteca Uno",
+"logo": "[https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/azteca-uno-mx.png](https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/azteca-uno-mx.png)",
+"url": "[https://example.com/azteca.m3u8](https://example.com/azteca.m3u8)"
+},
+{
+"nombre": "Canal 5",
+"logo": "[https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/canal-5-mx.png](https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/canal-5-mx.png)",
+"url": "[https://example.com/canal5.m3u8](https://example.com/canal5.m3u8)"
+},
+{
+"nombre": "TV Azteca 7",
+"logo": "[https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/azteca-7-mx.png](https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/azteca-7-mx.png)",
+"url": "[https://example.com/azteca7.m3u8](https://example.com/azteca7.m3u8)"
+}
 ]
