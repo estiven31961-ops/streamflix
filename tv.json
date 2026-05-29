@@ -1,6 +1,7 @@
 [
   {
-    "nombre": "Caracol",
+    "nombre": "CARTOON NETWORK HD",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/d32e347bb7c4c640dceec23957802ad9182f58a6/countries/argentina/cartoon-network-ar.png",
     "url": "http://45.166.93.156:9999/play/a0iu/index.m3u8"
   }
 ]
