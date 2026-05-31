@@ -1,3 +1,9 @@
 [
-  { "user": "admin", "pass": "1234" }
+  {
+    "id": "1",
+    "username": "admin",
+    "password": "1234",
+    "nombre": "Administrador",
+    "isAdmin": true
+  }
 ]
