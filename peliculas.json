@@ -1,8 +1,9 @@
 [
   {
-    "id": 431,
-    "titulo": "El Cubo",
-    "video": "http://181.118.156.46:8000/play/a062/index.m3u8?hls"
+ "id": 431,
+    "title": "El Cubo",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/xxx.jpg",
+    "video": "http://181.118.156.46:8000/play/a062/index.m3u8"
   },
   {
     "id": 1304313,
