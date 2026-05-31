@@ -7,17 +7,17 @@
   {
     "nombre": "DISCOVERY CHANNEL",
     "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/discovery-channel-ar.png",
-    "url": "http://45.166.93.156:9999/play/a0i4/index.m3u8"
+    "url": "http://45.173.74.2:2010/play/a08x/index.m3u8"
   },
   {
     "nombre": "ESPN HD",
     "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/espn-ar.png",
-    "url": "http://45.166.93.156:9999/play/a0db/index.m3u8"
+    "url": "http://45.173.74.2:2010/play/a08a/index.m3u8"
   },
   {
     "nombre": "Caracol HD",
     "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/colombia/caracol-tv-co.png",
-    "url": "https://drive.google.com/uc?export=view&id=15_8elh4oMvMIiXik2elfH-KZLs50JAc4"
+    "url": "http://181.118.156.46:8000/play/a060/index.m3u8?hls"
   },
   {
     "nombre": "RCN HD",
@@ -32,7 +32,7 @@
   {
     "nombre": "CityTV",
     "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/colombia/citytv-co.png",
-    "url": "https://example.com/citytv.m3u8"
+    "url": "http://45.173.74.2:2010/play/a09w/index.m3u88"
   },
   {
     "nombre": "Teleantioquia",
@@ -73,17 +73,17 @@
   {
     "nombre": "Disney Channel",
     "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/disney-channel-ar.png",
-    "url": "https://example.com/disney.m3u8"
+    "url": "http://45.173.74.2:2010/play/a09z/index.m3u8"
   },
   {
     "nombre": "Nickelodeon",
     "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/nickelodeon-ar.png",
-    "url": "https://example.com/nick.m3u8"
+    "url": "http://45.173.74.2:2010/play/a0a5/index.m3u8"
   },
   {
     "nombre": "Discovery Kids",
     "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/discovery-kids-ar.png",
-    "url": "https://example.com/dkids.m3u8"
+    "url": "http://45.173.74.2:2010/play/a07f/index.m3u8"
   },
   {
     "nombre": "Boomerang",
@@ -104,7 +104,7 @@
   {
     "nombre": "ESPN 3",
     "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/espn-3-ar.png",
-    "url": "https://example.com/espn3.m3u8"
+    "url": "http://45.173.74.2:2010/play/a092/index.m3u8"
   },
   {
     "nombre": "Fox Sports",
@@ -112,15 +112,15 @@
     "url": "https://example.com/foxsports.m3u8"
   },
   {
-    "nombre": "Win Sports",
+    "nombre": "Win Sports Plus",
     "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/colombia/win-sports-co.png",
     "url": "https://example.com/winsports.m3u8"
   },
 
   {
-    "nombre": "HBO",
+    "nombre": "Win Sports",
     "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/hbo-ar.png",
-    "url": "https://example.com/hbo.m3u8"
+    "url": "http://181.118.156.46:8000/play/a05w/index.m3u8?hls"
   },
   {
     "nombre": "HBO 2",
@@ -130,23 +130,23 @@
   {
     "nombre": "Cinemax",
     "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/cinemax-ar.png",
-    "url": "https://example.com/cinemax.m3u8"
+    "url": "http://45.173.74.2:2010/play/a08w/index.m3u8"
   },
   {
     "nombre": "Space",
     "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/space-ar.png",
-    "url": "https://example.com/space.m3u8"
+    "url": "http://45.173.74.2:2010/play/a09i/index.m3u8"
   },
   {
     "nombre": "TNT",
     "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/tnt-ar.png",
-    "url": "https://example.com/tnt.m3u8"
+    "url": "http://45.173.74.2:2010/play/a09n/index.m3u8"
   },
 
   {
     "nombre": "History",
     "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/history-ar.png",
-    "url": "https://example.com/history.m3u8"
+    "url": "http://45.173.74.2:2010/play/a09a/index.m3u8"
   },
   {
     "nombre": "Discovery Channel",
@@ -170,8 +170,8 @@
   },
 {
 "nombre": "AXN",
-"logo": "[https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/axn-ar.png](https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/axn-ar.png)",
-"url": "[https://example.com/axn.m3u8](https://example.com/axn.m3u8)"
+"logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/axn-ar.png",
+"url": "http://45.173.74.2:2010/play/a08t/index.m3u8"
 },
 {
 "nombre": "Sony Channel",
