@@ -17,52 +17,52 @@
   {
     "nombre": "Caracol HD",
     "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/colombia/caracol-tv-co.png",
-    "url": "http://181.118.156.46:8000/play/a060/index.m3u8?hls"
+    "url": "http://190.61.41.181:8000/play/a0do/index.m3u8"
   },
   {
     "nombre": "RCN HD",
     "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/colombia/rcn-co.png",
-    "url": "https://drive.google.com/uc?export=download&id=15_8elh4oMvMIiXik2elfH-KZLs50JAc4"
+    "url": "http://190.61.41.181:8000/play/a0dn/index.m3u8"
   },
   {
     "nombre": "Canal Uno",
     "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/colombia/canal-1-co.png",
-    "url": "https://example.com/canal1.m3u8"
+    "url": "http://190.61.41.181:8000/play/a0qx/index.m3u8"
   },
   {
     "nombre": "CityTV",
     "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/colombia/citytv-co.png",
-    "url": "http://45.173.74.2:2010/play/a09w/index.m3u88"
+    "url": "http://190.61.41.181:8000/play/a0o4/index.m3u8"
   },
   {
     "nombre": "Teleantioquia",
     "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/colombia/teleantioquia-co.png",
-    "url": "https://example.com/teleantioquia.m3u8"
+    "url": "http://190.61.41.181:8000/play/a0rs/index.m3u8"
   },
   {
     "nombre": "Telecaribe",
     "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/colombia/telecaribe-co.png",
-    "url": "https://example.com/telecaribe.m3u8"
+    "url": "http://190.61.41.181:8000/play/a0rt/index.m3u8"
   },
   {
     "nombre": "Telepacífico",
     "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/colombia/telepacifico-co.png",
-    "url": "https://example.com/telepacifico.m3u8"
+    "url": "http://190.61.41.181:8000/play/a0rw/index.m3u8"
   },
   {
     "nombre": "Canal TRO",
     "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/colombia/tro-co.png",
-    "url": "https://example.com/tro.m3u8"
+    "url": "http://190.61.41.181:8000/play/a0o1/index.m3u8"
   },
   {
     "nombre": "Canal Capital",
     "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/colombia/canal-capital-co.png",
-    "url": "https://example.com/capital.m3u8"
+    "url": "http://190.61.41.181:8000/play/a0s0/index.m3u8"
   },
   {
     "nombre": "Telecafé",
     "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/colombia/telecafe-co.png",
-    "url": "https://example.com/telecafe.m3u8"
+    "url": "http://190.61.41.181:8000/play/a0rv/index.m3u8"
   },
 
   {
