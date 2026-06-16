@@ -72,7 +72,7 @@
   {
     "nombre": "Win Sports",
     "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/colombia/win-sports-co.png",
-    "url": "https://example.com/winsports-basico.m3u8"
+    "url": "http://190.60.48.150:8000/play/WINSPORT/index.m3u8"
   },
   {
     "nombre": "Win Sports Plus",
