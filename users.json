@@ -5,5 +5,33 @@
     "password": "1234",
     "nombre": "Administrador",
     "isAdmin": true
+  },
+  {
+    "id": "2",
+    "username": "carlos_g",
+    "password": "user8899",
+    "nombre": "Carlos Gómez",
+    "isAdmin": false
+  },
+  {
+    "id": "3",
+    "username": "marta_l",
+    "password": "pass4321",
+    "nombre": "Marta López",
+    "isAdmin": false
+  },
+  {
+    "id": "4",
+    "username": "jorge_m",
+    "password": "secure99",
+    "nombre": "Jorge Martínez",
+    "isAdmin": false
+  },
+  {
+    "id": "5",
+    "username": "elena_v",
+    "password": "key7766",
+    "nombre": "Elena Vargas",
+    "isAdmin": false
   }
 ]
