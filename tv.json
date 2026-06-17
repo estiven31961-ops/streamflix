@@ -7,7 +7,7 @@
   {
     "nombre": "RCN HD",
     "logo": "https://i.postimg.cc/wxGPxxpn/Canal-RCN-logo-(2)-svg.png",
-    "url": "http://astra.fibernetisp.com.co/play/a03s/index.m3u8"
+    "url": "http://astra.fibernetisp.com.co/play/a0b5/index.m3u8"
   },
   {
     "nombre": "Canal Uno",
@@ -57,12 +57,12 @@
   {
     "nombre": "DSports",
     "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/directv-sports-ar.png",
-    "url": "http://148.222.230.201:8000/play/a0pk/index.m3u8"
+    "url": "http://181.224.255.210:8001/play/a0s8/index.m3u8?hls"
   },
   {
     "nombre": "DSports 2",
     "logo": "https://i.postimg.cc/25Y0xd9k/DIRECTV-Sports-2-Latin-America-(2018)-svg.png",
-    "url": "http://190.61.41.181:8000/play/a0r4/index.m3u8"
+    "url": "http://181.64.27.65:8000/play/a0dq/index.m3u8"
   },
   {
     "nombre": "DSports +",
@@ -202,7 +202,7 @@
   {
     "nombre": "HBO",
     "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/hbo-ar.png",
-    "url": "http://181.118.156.46:8000/play/a05w/index.m3u8?hls"
+    "url": "http://190.217.66.92:8000/play/a0pt/index.m3u8u?hls"
   },
   {
     "nombre": "HBO 2",
