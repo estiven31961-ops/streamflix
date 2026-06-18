@@ -175,9 +175,9 @@
     "url": "http://190.61.101.11:7050/play/a092/index.m3u8?hls"
   },
   {
-    "nombre": "NickToons",
+    "nombre": "DREAMSWORK",
     "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/nicktoons-ar.png",
-    "url": "https://example.com/nicktoons.m3u8"
+    "url": "http://astra.fibernetisp.com.co/play/a0lo/index.m3u8"
   },
   {
     "nombre": "Discovery Kids",
