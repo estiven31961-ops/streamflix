@@ -1,7 +1,9 @@
 {
   "version": "1.0.0",
   "versionCode": 1,
-  "apk": "",
-  "force": false,
-  "message": "Primera versión."
+  "apkUrl": "",
+  "forceUpdate": false,
+  "releaseDate": "2026-06-17",
+  "title": "Primera versión",
+  "message": "Bienvenido a StreamFlix TV."
 }
