@@ -10,14 +10,14 @@
     "url": "http://astra.fibernetisp.com.co/play/a0b5/index.m3u8"
   },
   {
-    "nombre": "Canal Uno",
+    "nombre": "Telemundo Deportes",
     "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/colombia/canal-1-co.png",
-    "url": "http://190.61.41.181:8000/play/a0qx/index.m3u8"
+    "url": "https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/6a4c908e-7980-4fcb-93e3-584472a5f9a3/4.m3u8"
   },
   {
-    "nombre": "CityTV",
+    "nombre": "Telemundo USA",
     "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/colombia/citytv-co.png",
-    "url": "http://190.61.41.181:8000/play/a0o4/index.m3u8"
+    "url": "http://45.190.185.204:9000/play/a0f8/index.m3u8?hls"
   },
   {
     "nombre": "Señal Colombia",
