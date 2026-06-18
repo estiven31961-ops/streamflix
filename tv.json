@@ -185,9 +185,9 @@
     "url": "http://190.108.93.180:8000/play/a05s/index.m3u8"
   },
   {
-    "nombre": "Boomerang",
+    "nombre": "Adult swim",
     "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/boomerang-ar.png",
-    "url": "https://example.com/boomerang.m3u8"
+    "url": "http://190.61.101.11:7050/play/a08g/index.m3u8?hls"
   },
   {
     "nombre": "Nat Geo Kids",
