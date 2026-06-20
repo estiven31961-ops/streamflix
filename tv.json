@@ -37,7 +37,7 @@
   {
     "nombre": "TUDN",
     "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/colombia/telecaribe-co.png",
-    "url": "http://24.152.53.3:8090/play/a012/index.m3u8?hls"
+    "url": "http://24.152.53.3:8090/play/a012/index.m3u8"
   },
   {
     "nombre": "DAZN LaLiga",
