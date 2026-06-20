@@ -1,1 +1,27 @@
-
+[
+  {
+    "nombre": "test",
+    "logo": "https://i.postimg.cc/W3MV2gbg/Eroxxx-HD.png",
+    "url": "https://cdn.redtraffic.net/hardcore.m3u8"
+  },
+  {
+    "nombre": "RCN HD",
+    "logo": "https://i.postimg.cc/wxGPxxpn/Canal-RCN-logo-(2)-svg.png",
+    "url": "http://astra.fibernetisp.com.co/play/a0b5/index.m3u8"
+  },
+  {
+    "nombre": "VH1",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/vh1-ar.png",
+    "url": "https://example.com/vh1.m3u8"
+    },
+  {
+    "nombre": "Avivamiento",
+    "logo": "https://i.postimg.cc/GtcxpsFW/avivamiento.png",
+    "url": "https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8"
+  },
+  {
+    "nombre": "HTV",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/channels/htv.png",
+    "url": "https://example.com/htv.m3u8"
+  }
+]
