@@ -17,7 +17,7 @@
   {
     "nombre": "Telemundo USA",
     "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/colombia/citytv-co.png",
-    "url": "http://45.190.185.204:9000/play/a0f8/index.m3u8?hls"
+    "url": "http://205.235.6.29:8000/play/a0mh/index.m3u8"
   },
   {
     "nombre": "Señal Colombia",
