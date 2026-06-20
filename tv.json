@@ -35,9 +35,9 @@
     "url": "http://190.61.41.181:8000/play/a0rs/index.m3u8"
   },
   {
-    "nombre": "Telecaribe",
+    "nombre": "TUDN",
     "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/colombia/telecaribe-co.png",
-    "url": "http://190.61.41.181:8000/play/a0rt/index.m3u8"
+    "url": "http://planettvweb.com:8091/live/Jorge42/MPda4257/50497.ts"
   },
   {
     "nombre": "DAZN LaLiga",
