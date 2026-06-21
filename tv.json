@@ -1,3 +1,6 @@
+¡Hecho! Aquí tienes el archivo JSON reestructurado con la categoría de **Deportes** en el primer lugar de la lista, manteniendo el resto de la organización intacta:
+
+```json
 [
   {
     "categoria": "Deportes",
@@ -29,7 +32,7 @@
       },
       {
         "nombre": "DSports",
-        "logo": https://i.postimg.cc/XJXNxFqb/b01839fe460abc33d0322ac25fc1c7d96d5397bcbd2f56cc76f05788fa4ca9ba.png",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/directv-sports-ar.png",
         "url": "http://181.224.255.210:8001/play/a0s8/index.m3u8?hls"
       },
       {
@@ -460,3 +463,5 @@
     ]
   }
 ]
+
+```
