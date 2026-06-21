@@ -1,6 +1,3 @@
-¡Hecho! Aquí tienes el archivo JSON reestructurado con la categoría de **Deportes** en el primer lugar de la lista, manteniendo el resto de la organización intacta:
-
-```json
 [
   {
     "categoria": "Deportes",
