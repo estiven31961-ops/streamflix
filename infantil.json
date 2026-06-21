@@ -5,23 +5,23 @@
     "url": "https://183.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8"
   },
   {
-    "nombre": "RCN HD",
+    "nombre": "MaxAnime",
     "logo": "https://i.postimg.cc/wxGPxxpn/Canal-RCN-logo-(2)-svg.png",
-    "url": "http://astra.fibernetisp.com.co/play/a0b5/index.m3u8"
+    "url": "https://cdnlive.klicgo.net/maxanime/live/playlist_dvr.m3u8"
   },
   {
-    "nombre": "VH1",
+    "nombre": "Mr.bean",
     "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/vh1-ar.png",
-    "url": "https://example.com/vh1.m3u8"
+    "url": "https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8"
     },
   {
-    "nombre": "Avivamiento",
+    "nombre": "Cartonnito",
     "logo": "https://i.postimg.cc/GtcxpsFW/avivamiento.png",
-    "url": "https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8"
+    "url": "http://190.61.101.11:7050/play/a08d/index.m3u8?hls"
   },
   {
-    "nombre": "HTV",
+    "nombre": "Cartoon Network",
     "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/channels/htv.png",
-    "url": "https://example.com/htv.m3u8"
+    "url": "http://181.224.255.210:8001/play/a0py/index.m3u8?hls"
   }
 ]
