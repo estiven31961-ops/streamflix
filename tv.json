@@ -141,7 +141,7 @@
       },
       {
         "nombre": "RCN HD",
-        "tvgId": "="CO - RCN",
+        "tvgId": "CO - RCN",
         "logo": "https://i.postimg.cc/90cFqJrv/principal-image.webp",
         "url": "http://181.78.17.52:8000/play/a0ec/index.m3u8"
       },
