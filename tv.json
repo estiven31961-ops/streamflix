@@ -170,13 +170,13 @@
     "canales": [
       {
         "nombre": "CARTOON NETWORK HD",
-        "tvgId": "cartoonnetwork.la",
+        "tvgId": "cartoon network",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/cartoon-network-ar.png",
         "url": "http://45.166.93.156:9999/play/a0iu/index.m3u8"
       },
       {
         "nombre": "Cartoon Network",
-        "tvgId": "cartoonnetwork.la",
+        "tvgId": "cartoon network",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/cartoon-network-ar.png",
         "url": "https://example.com/cartoon.m3u8"
       },
