@@ -137,7 +137,7 @@
         "nombre": "Caracol HD",
         "tvgId": "caracol.co",
         "logo": "https://i.postimg.cc/3xdgs64Q/caracoltv-brightspotcdn.webp",
-        "url": "http://astra.fibernetisp.com.co/play/a0b4/index.m3u8"
+        "url": "http://190.60.45.197:2222/play/a09o/index.m3u8?hls"
       },
       {
         "nombre": "RCN HD",
