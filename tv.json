@@ -135,25 +135,25 @@
     "canales": [
       {
         "nombre": "Caracol TV",
-        "tvgId": "CO - Caracol",
+        "tvgId": "caracol",
         "logo": "https://i.postimg.cc/3xdgs64Q/caracoltv-brightspotcdn.webp",
         "url": "http://190.60.45.197:2222/play/a09o/index.m3u8?hls"
       },
       {
         "nombre": "RCN HD",
-        "tvgId": "CO - RCN",
+        "tvgId": "rcn",
         "logo": "https://i.postimg.cc/90cFqJrv/principal-image.webp",
         "url": "http://181.78.17.52:8000/play/a0ec/index.m3u8"
       },
       {
         "nombre": "Señal Colombia",
-        "tvgId": "senalcolombia.co",
+        "tvgId": "senalcolombia",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/colombia/senal-colombia-co.png",
         "url": "https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8"
       },
       {
         "nombre": "Telepacífico",
-        "tvgId": "telepacifico.co",
+        "tvgId": "telepacifico",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/colombia/telepacifico-co.png",
         "url": "http://190.61.41.181:8000/play/a0rw/index.m3u8"
       },
