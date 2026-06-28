@@ -135,13 +135,13 @@
     "canales": [
       {
         "nombre": "Caracol TV",
-        "tvgId": "Caracol TV",
+        "tvgId": "CO - Caracol",
         "logo": "https://i.postimg.cc/3xdgs64Q/caracoltv-brightspotcdn.webp",
         "url": "http://190.60.45.197:2222/play/a09o/index.m3u8?hls"
       },
       {
         "nombre": "RCN HD",
-        "tvgId": "rcn.co",
+        "tvgId": "="CO - RCN",
         "logo": "https://i.postimg.cc/90cFqJrv/principal-image.webp",
         "url": "http://181.78.17.52:8000/play/a0ec/index.m3u8"
       },
