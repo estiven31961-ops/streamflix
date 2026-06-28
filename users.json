@@ -1,9 +1,9 @@
 [
   {
     "id": "1",
-    "username": "admin vence 19/07/2026",
+    "username": "admin",
     "password": "1234",
-    "nombre": "Administrador",
+    "nombre": "vence 19/07/2026",
     "isAdmin": true
   },
   {
