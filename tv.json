@@ -143,7 +143,7 @@
         "nombre": "RCN HD",
         "tvgId": "rcn.co",
         "logo": "https://i.postimg.cc/90cFqJrv/principal-image.webp",
-        "url": "http://astra.fibernetisp.com.co/play/a0b5/index.m3u8"
+        "url": "http://181.78.17.52:8000/play/a0ec/index.m3u8"
       },
       {
         "nombre": "Señal Colombia",
