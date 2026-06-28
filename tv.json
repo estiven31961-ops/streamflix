@@ -4,106 +4,127 @@
     "canales": [
       {
         "nombre": "Telemundo Deportes",
+        "tvgId": "telemundodeportes.us",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/colombia/canal-1-co.png",
         "url": "https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/6a4c908e-7980-4fcb-93e3-584472a5f9a3/4.m3u8"
       },
       {
         "nombre": "TUDN",
+        "tvgId": "tudn.mx",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/colombia/telecaribe-co.png",
         "url": "http://24.152.53.3:8090/play/a012/index.m3u8"
       },
       {
         "nombre": "DAZN LaLiga",
+        "tvgId": "daznlaliga.es",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/colombia/tro-co.png",
         "url": "http://voodvooxqha.top:8080/live/VIP015871759602003116/7d8327c3ece7/158461.m3u8"
       },
       {
         "nombre": "Claro Sports",
+        "tvgId": "clarosports.la",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/colombia/canal-capital-co.png",
         "url": "http://45.190.185.204:9000/play/a0la/index.m3u8?hls"
       },
       {
         "nombre": "Claro Sports 2",
+        "tvgId": "clarosports2.la",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/colombia/telecafe-co.png",
         "url": "http://190.61.101.11:7050/play/a04v/index.m3u8?hls"
       },
       {
         "nombre": "DSports",
+        "tvgId": "dsports.la",
         "logo": "https://i.postimg.cc/XJXNxFqb/b01839fe460abc33d0322ac25fc1c7d96d5397bcbd2f56cc76f05788fa4ca9ba.png",
         "url": "http://181.224.255.210:8001/play/a0s8/index.m3u8?hls"
       },
       {
         "nombre": "DSports 2",
+        "tvgId": "dsports2.la",
         "logo": "https://i.postimg.cc/25Y0xd9k/DIRECTV-Sports-2-Latin-America-(2018)-svg.png",
         "url": "http://181.64.27.65:8000/play/a0dq/index.m3u8"
       },
       {
         "nombre": "DSports +",
+        "tvgId": "dsportsplus.la",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/channels/dsports-plus.png",
         "url": "http://190.108.83.69:8000/play/a05w/index.m3u8"
       },
       {
         "nombre": "Win Sports",
+        "tvgId": "winsports.co",
         "logo": "https://i.postimg.cc/rsDZgL0d/Win-Nuevo-WEB-940x400-png.webp",
         "url": "http://190.60.48.150:8000/play/WINSPORT/index.m3u8"
       },
       {
         "nombre": "Win Sports Plus",
+        "tvgId": "winsportsplus.co",
         "logo": "https://i.postimg.cc/1tsZW4sN/win-sports-1698354.png",
         "url": "http://190.217.66.92:8000/play/a0qs/index.m3u8u?hls"
       },
       {
         "nombre": "ESPN 1",
+        "tvgId": "espn1.la",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/espn-ar.png",
         "url": "https://1nyaler.streamhostingcdn.top/stream/99/index.m3u8"
       },
       {
         "nombre": "ESPN 2",
+        "tvgId": "espn2.la",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/espn-2-ar.png",
         "url": "http://190.108.93.180:8000/play/a03e/index.m3u8"
       },
       {
         "nombre": "ESPN 3",
+        "tvgId": "espn3.la",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/espn-3-ar.png",
         "url": "http://190.108.93.180:8000/play/a032/index.m3u8"
       },
       {
         "nombre": "ESPN 4",
+        "tvgId": "espn4.la",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/espn-4-ar.png",
         "url": "http://190.61.101.11:7050/play/a08p/index.m3u8?hls"
       },
       {
         "nombre": "ESPN 5",
+        "tvgId": "espn5.la",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/espn-5-ar.png",
         "url": "http://190.61.101.11:7050/play/a06j/index.m3u8?hls"
       },
       {
         "nombre": "ESPN 6",
+        "tvgId": "espn6.la",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/espn-6-ar.png",
         "url": "http://190.61.101.11:7050/play/a05e/index.m3u8?hls"
       },
       {
         "nombre": "ESPN Premium",
+        "tvgId": "espnpremium.ar",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/espn-premium-ar.png",
         "url": "http://190.217.66.92:8000/play/a0pj/index.m3u8u?hls"
       },
       {
         "nombre": "Fox Sports 2",
+        "tvgId": "foxsports2.ar",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fox-sports-2-ar.png",
         "url": "http://24.152.53.3:8090/play/a011/index.m3u8?hls"
       },
       {
         "nombre": "Fox Sports 3",
+        "tvgId": "foxsports3.ar",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fox-sports-3-ar.png",
         "url": "https://example.com/foxsports3.m3u8"
       },
       {
         "nombre": "TyC Sports",
+        "tvgId": "tycsports.ar",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/tyc-sports-ar.png",
         "url": "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8"
       },
       {
         "nombre": "GolTV",
+        "tvgId": "goltv.la",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/channels/goltv.png",
         "url": "https://example.com/goltv.m3u8"
       }
@@ -114,26 +135,31 @@
     "canales": [
       {
         "nombre": "Caracol HD",
+        "tvgId": "caracol.co",
         "logo": "https://i.postimg.cc/3xdgs64Q/caracoltv-brightspotcdn.webp",
         "url": "http://astra.fibernetisp.com.co/play/a0b4/index.m3u8"
       },
       {
         "nombre": "RCN HD",
+        "tvgId": "rcn.co",
         "logo": "https://i.postimg.cc/90cFqJrv/principal-image.webp",
         "url": "http://astra.fibernetisp.com.co/play/a0b5/index.m3u8"
       },
       {
         "nombre": "Señal Colombia",
+        "tvgId": "senalcolombia.co",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/colombia/senal-colombia-co.png",
         "url": "https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8"
       },
       {
         "nombre": "Telepacífico",
+        "tvgId": "telepacifico.co",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/colombia/telepacifico-co.png",
         "url": "http://190.61.41.181:8000/play/a0rw/index.m3u8"
       },
       {
         "nombre": "Teleantioquia",
+        "tvgId": "teleantioquia.co",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/colombia/teleantioquia-co.png",
         "url": "http://190.61.41.181:8000/play/a0rs/index.m3u8"
       }
@@ -144,61 +170,73 @@
     "canales": [
       {
         "nombre": "CARTOON NETWORK HD",
+        "tvgId": "cartoonnetwork.la",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/cartoon-network-ar.png",
         "url": "http://45.166.93.156:9999/play/a0iu/index.m3u8"
       },
       {
         "nombre": "Cartoon Network",
+        "tvgId": "cartoonnetwork.la",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/cartoon-network-ar.png",
         "url": "https://example.com/cartoon.m3u8"
       },
       {
         "nombre": "Cartoonito",
+        "tvgId": "cartoonito.la",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/channels/cartoonito.png",
         "url": "http://190.61.101.11:7050/play/a08d/index.m3u8?hls"
       },
       {
         "nombre": "Tooncast",
+        "tvgId": "tooncast.la",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/tooncast-ar.png",
         "url": "http://190.61.101.11:7050/play/a074/index.m3u8?hls"
       },
       {
         "nombre": "Disney Channel",
+        "tvgId": "disneychannel.la",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/disney-channel-ar.png",
         "url": "http://190.108.93.180:8000/play/a045/index.m3u8"
       },
       {
         "nombre": "Disney Jr",
+        "tvgId": "disneyjr.la",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/disney-junior-ar.png",
         "url": "http://190.61.101.11:7050/play/a08e/index.m3u8?hls"
       },
       {
         "nombre": "Nickelodeon",
+        "tvgId": "nickelodeon.la",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/nickelodeon-ar.png",
         "url": "http://190.108.93.180:8000/play/a03g/index.m3u8"
       },
       {
         "nombre": "Nick Jr",
+        "tvgId": "nickjr.la",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/nick-junior-ar.png",
         "url": "http://190.61.101.11:7050/play/a092/index.m3u8?hls"
       },
       {
         "nombre": "DREAMSWORK",
+        "tvgId": "dreamworks.la",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/nicktoons-ar.png",
         "url": "http://astra.fibernetisp.com.co/play/a0lo/index.m3u8"
       },
       {
         "nombre": "Discovery Kids",
+        "tvgId": "discoverykids.la",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/discovery-kids-ar.png",
         "url": "http://190.108.93.180:8000/play/a05s/index.m3u8"
       },
       {
         "nombre": "Adult swim",
+        "tvgId": "adultswim.la",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/boomerang-ar.png",
         "url": "http://190.61.101.11:7050/play/a08g/index.m3u8?hls"
       },
       {
         "nombre": "Nat Geo Kids",
+        "tvgId": "natgeokids.la",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/channels/nat-geo-kids.png",
         "url": "https://example.com/natgeokids.m3u8"
       }
@@ -209,121 +247,145 @@
     "canales": [
       {
         "nombre": "Canal 5",
+        "tvgId": "canal5.mx",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/canal-5-mx.png",
         "url": "https://1nyaler.streamhostingcdn.top/stream/52/index.m3u8"
       },
       {
         "nombre": "HBO",
+        "tvgId": "hbo.la",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/hbo-ar.png",
         "url": "http://190.217.66.92:8000/play/a0pt/index.m3u8u?hls"
       },
       {
         "nombre": "HBO 2",
+        "tvgId": "hbo2.la",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/hbo-2-ar.png",
         "url": "http://181.224.255.210:8001/play/a0sv/index.m3u8?hls"
       },
       {
         "nombre": "HBO Family",
+        "tvgId": "hbofamily.la",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/hbo-family-ar.png",
         "url": "http://181.224.255.210:8001/play/a0nv/index.m3u8?hls"
       },
       {
         "nombre": "HBO Signature",
+        "tvgId": "hbosignature.la",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/hbo-signature-ar.png",
         "url": "http://181.224.255.210:8001/play/a0re/index.m3u8?hls"
       },
       {
         "nombre": "HBO Mundi",
+        "tvgId": "hbomundi.la",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/hbo-mundi-ar.png",
         "url": "http://astra.fibernetisp.com.co/play/a0di/index.m3u8"
       },
       {
         "nombre": "HBO Pop",
+        "tvgId": "hbopop.la",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/hbo-pop-ar.png",
         "url": "http://astra.fibernetisp.com.co/play/a0dj/index.m3u8"
       },
       {
         "nombre": "HBO Xtreme",
+        "tvgId": "hboxtreme.la",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/hbo-xtreme-ar.png",
         "url": "http://181.224.255.210:8001/play/a0nw/index.m3u8?hls"
       },
       {
         "nombre": "Cinemax",
+        "tvgId": "cinemax.la",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/cinemax-ar.png",
         "url": "http://190.108.93.180:8000/play/a06y/index.m3u8"
       },
       {
         "nombre": "Space",
+        "tvgId": "space.la",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/space-ar.png",
         "url": "http://190.108.93.180:8000/play/a05x/index.m3u8"
       },
       {
         "nombre": "TNT",
+        "tvgId": "tnt.la",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/tnt-ar.png",
         "url": "http://190.108.93.180:8000/play/a03x/index.m3u8"
       },
       {
         "nombre": "TNT Series",
+        "tvgId": "tntseries.la",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/tnt-series-ar.png",
         "url": "http://190.217.66.92:8000/play/a0pq/index.m3u8u?hls"
       },
       {
         "nombre": "AXN",
+        "tvgId": "axn.la",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/axn-ar.png",
         "url": "http://astra.fibernetisp.com.co/play/a05n/index.m3u8"
       },
       {
         "nombre": "Sony Channel",
+        "tvgId": "sonychannel.la",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/sony-ar.png",
         "url": "http://190.108.93.180:8000/play/a041/index.m3u8"
       },
       {
         "nombre": "Warner Channel",
+        "tvgId": "warnerchannel.la",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/warner-channel-ar.png",
         "url": "http://190.108.93.180:8000/play/a042/index.m3u8"
       },
       {
         "nombre": "Universal TV",
+        "tvgId": "universaltv.la",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/universal-tv-ar.png",
         "url": "https://example.com/universal.m3u8"
       },
       {
         "nombre": "Studio Universal",
+        "tvgId": "studiouniversal.la",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/studio-universal-ar.png",
         "url": "http://190.61.101.11:7050/play/a07u/index.m3u8?hls"
       },
       {
         "nombre": "Paramount Network",
+        "tvgId": "paramount.la",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/paramount-network-ar.png",
         "url": "https://example.com/paramount.m3u8"
       },
       {
         "nombre": "A&E",
+        "tvgId": "ae.la",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/ae-ar.png",
         "url": "http://190.108.93.180:8000/play/a02l/index.m3u8"
       },
       {
         "nombre": "FX",
+        "tvgId": "fx.la",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fx-ar.png",
         "url": "http://190.108.93.180:8000/play/a047/index.m3u8"
       },
       {
         "nombre": "FXM",
+        "tvgId": "fxm.la",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fxm-ar.png",
         "url": "https://example.com/fxm.m3u8"
       },
       {
         "nombre": "AMC",
+        "tvgId": "amc.la",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/amc-ar.png",
         "url": "http://190.108.93.180:8000/play/a02v/index.m3u8"
       },
       {
         "nombre": "Cinecanal",
+        "tvgId": "cinecanal.la",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/cinecanal-ar.png",
         "url": "https://example.com/cinecanal.m3u8"
       },
       {
         "nombre": "K-Drama+",
+        "tvgId": "kdrama.tv",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/vh1-ar.png",
         "url": "https://ca7c8b78.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0tEcmFtYV9ITFM/manifest.m3u8"
       }
@@ -334,61 +396,73 @@
     "canales": [
       {
         "nombre": "History",
+        "tvgId": "history.la",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/history-ar.png",
         "url": "http://190.108.93.180:8000/play/a03v/index.m3u8"
       },
       {
         "nombre": "History 2",
+        "tvgId": "history2.la",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/history-2-ar.png",
         "url": "https://example.com/history2.m3u8"
       },
       {
         "nombre": "Discovery Channel",
+        "tvgId": "discovery.la",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/discovery-channel-ar.png",
         "url": "http://190.108.93.180:8000/play/a03u/index.m3u8"
       },
       {
         "nombre": "Discovery Science",
+        "tvgId": "discoveryscience.la",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/discovery-science-ar.png",
         "url": "http://8.243.126.131:8000/play/a0ff/index.m3u8?hls"
       },
       {
         "nombre": "Discovery Turbo",
+        "tvgId": "discoveryturbo.la",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/discovery-turbo-ar.png",
         "url": "http://8.243.126.131:8000/play/a0go/index.m3u8?hls"
       },
       {
         "nombre": "Discovery Theater",
+        "tvgId": "discoverytheater.la",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/discovery-theater-ar.png",
         "url": "http://8.243.126.131:8000/play/a0ik/index.m3u8?hls"
       },
       {
         "nombre": "Discovery World",
+        "tvgId": "discoveryworld.la",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/discovery-world-ar.png",
         "url": "http://8.243.126.131:8000/play/a0da/index.m3u8?hls"
       },
       {
         "nombre": "Discovery Home & Health",
+        "tvgId": "discoveryhomeandhealth.la",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/discovery-home-and-health-ar.png",
         "url": "https://example.com/discoveryhomehealth.m3u8"
       },
       {
         "nombre": "National Geographic",
+        "tvgId": "natgeo.la",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/national-geographic-ar.png",
         "url": "http://190.108.93.180:8000/play/a03w/index.m3u8"
       },
       {
         "nombre": "Animal Planet",
+        "tvgId": "animalplanet.la",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/animal-planet-ar.png",
         "url": "http://190.108.93.180:8000/play/a03t/index.m3u8"
       },
       {
         "nombre": "TLC",
+        "tvgId": "tlc.la",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/tlc-ar.png",
         "url": "http://190.108.93.180:8000/play/a022/index.m3u8"
       },
       {
         "nombre": "ID (Investigación Discovery)",
+        "tvgId": "id.la",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/investigation-discovery-ar.png",
         "url": "http://8.243.126.131:8000/play/a0dd/index.m3u8?hls"
       }
@@ -399,16 +473,19 @@
     "canales": [
       {
         "nombre": "CNN en Español",
+        "tvgId": "cnnespanol.la",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/cnn-en-espanol-ar.png",
         "url": "http://190.108.93.180:8000/play/a01y/index.m3u8"
       },
       {
         "nombre": "DW Español",
+        "tvgId": "dwespanol.tv",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dw-de.png",
         "url": "http://190.108.93.180:8000/play/a01s/index.m3u8"
       },
       {
         "nombre": "France 24 Español",
+        "tvgId": "france24espanol.tv",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-24-fr.png",
         "url": "https://example.com/france24.m3u8"
       }
@@ -419,21 +496,25 @@
     "canales": [
       {
         "nombre": "Telemundo USA",
+        "tvgId": "telemundo.us",
         "logo": "https://i.postimg.cc/Y0yy2z9t/Telemundo-nuevo-logo.png",
         "url": "http://205.235.6.29:8000/play/a0mh/index.m3u8"
       },
       {
         "nombre": "Telemundo",
+        "tvgId": "telemundo.la",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/telemundo-us.png",
         "url": "http://190.108.93.180:8000/play/a025/index.m3u8"
       },
       {
         "nombre": "Univision",
+        "tvgId": "univision.us",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/univision-us.png",
         "url": "http://190.61.101.11:7050/play/a05k/index.m3u8"
       },
       {
         "nombre": "MTV",
+        "tvgId": "mtv.la",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/mtv-ar.png",
         "url": "http://190.108.93.180:8000/play/a033/index.m3u8"
       }
@@ -444,6 +525,7 @@
     "canales": [
       {
         "nombre": "Avivamiento",
+        "tvgId": "avivamiento.co",
         "logo": "https://i.postimg.cc/GtcxpsFW/avivamiento.png",
         "url": "https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8"
       }
@@ -454,6 +536,7 @@
     "canales": [
       {
         "nombre": "Box Playlist",
+        "tvgId": "boxplaylist.tv",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/channels/htv.png",
         "url": "https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/BKFNLVLBL20NVRK6FYE0/hls3/now,-1m/playlist.m3u8"
       }
