@@ -5,19 +5,19 @@
       {
         "nombre": "Telemundo Deportes",
         "tvgId": "telemundodeportes.us",
-        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/colombia/canal-1-co.png",
+        "logo": "https://i.postimg.cc/wvhRqSrC/td-header-logo-final-(1).png",
         "url": "https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/6a4c908e-7980-4fcb-93e3-584472a5f9a3/4.m3u8"
       },
       {
         "nombre": "TUDN",
         "tvgId": "tudn.mx",
-        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/colombia/telecaribe-co.png",
+        "logo": "https://i.postimg.cc/vTJKrxhy/ee65573e3ed2c5fcafa0191860afdf51-fgraphic.png",
         "url": "http://24.152.53.3:8090/play/a012/index.m3u8"
       },
       {
         "nombre": "DAZN LaLiga",
         "tvgId": "daznlaliga.es",
-        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/colombia/tro-co.png",
+        "logo": "https://i.postimg.cc/kMRqbQX5/dazn-laliga-negro-cut.webp",
         "url": "http://voodvooxqha.top:8080/live/VIP015871759602003116/7d8327c3ece7/158461.m3u8"
       },
       {
