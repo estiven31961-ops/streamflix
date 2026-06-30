@@ -321,7 +321,7 @@
         "nombre": "AXN",
         "tvgId": "axn.la",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/axn-ar.png",
-        "url": "http://astra.fibernetisp.com.co/play/a05n/index.m3u8"
+        "url": "http://45.190.184.79:5800/play/a04x/index.m3u8"
       },
       {
         "nombre": "Sony Channel",
@@ -339,7 +339,7 @@
         "nombre": "Universal TV",
         "tvgId": "universaltv.la",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/universal-tv-ar.png",
-        "url": "https://example.com/universal.m3u8"
+        "url": "http://45.190.184.79:5800/play/a063/index.m3u8"
       },
       {
         "nombre": "Studio Universal",
@@ -381,7 +381,7 @@
         "nombre": "Cinecanal",
         "tvgId": "cinecanal.la",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/cinecanal-ar.png",
-        "url": "https://example.com/cinecanal.m3u8"
+        "url": "http://45.190.184.79:5800/play/a03y/index.m3u8"
       },
       {
         "nombre": "K-Drama+",
@@ -440,7 +440,7 @@
         "nombre": "Discovery Home & Health",
         "tvgId": "discoveryhomeandhealth.la",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/discovery-home-and-health-ar.png",
-        "url": "https://example.com/discoveryhomehealth.m3u8"
+        "url": "http://45.190.184.79:5800/play/a04h/index.m3u8"
       },
       {
         "nombre": "National Geographic",
