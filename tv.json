@@ -136,31 +136,31 @@
       {
         "nombre": "Caracol TV",
         "tvgId": "caracol",
-        "logo": "https://i.postimg.cc/3xdgs64Q/caracoltv-brightspotcdn.webp",
+        "logo": "https://i.postimg.cc/NGyYh13Q/Caracol-TV-HD-logo-svg.webp",
         "url": "http://190.60.45.197:2222/play/a09o/index.m3u8?hls"
       },
       {
         "nombre": "RCN HD",
         "tvgId": "rcn",
-        "logo": "https://i.postimg.cc/90cFqJrv/principal-image.webp",
+        "logo": "https://i.postimg.cc/V6rhhFJc/RCN-Digital-Logo-Vector-svg-300x172.png",
         "url": "http://181.78.17.52:8000/play/a0ec/index.m3u8"
       },
       {
         "nombre": "Señal Colombia",
         "tvgId": "senalcolombia",
-        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/colombia/senal-colombia-co.png",
+        "logo": "https://i.postimg.cc/65LmFq5H/senalco.png",
         "url": "https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8"
       },
       {
         "nombre": "Telepacífico",
         "tvgId": "telepacifico",
-        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/colombia/telepacifico-co.png",
+        "logo": "https://i.postimg.cc/P5V2kwsh/Telepacifico.png",
         "url": "http://190.61.41.181:8000/play/a0rw/index.m3u8"
       },
       {
         "nombre": "Teleantioquia",
         "tvgId": "teleantioquia.co",
-        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/colombia/teleantioquia-co.png",
+        "logo": "https://i.postimg.cc/g09LRz3Y/unnamed-21.jpg",
         "url": "http://190.61.41.181:8000/play/a0rs/index.m3u8"
       }
     ]
