@@ -107,7 +107,7 @@
       {
         "nombre": "Fox Sports",
         "tvgId": "foxsports2.ar",
-        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fox-sports-2-ar.png",
+        "logo": "https://i.postimg.cc/5tpfqMRt/Fox-Broadcasting-Company-logo-(2019)-svg.webp",
         "url": "http://190.61.101.11:7050/play/a0a9/index.m3u8?hls"
       },
       {
@@ -119,19 +119,19 @@
       {
         "nombre": "Fox Sports Premium",
         "tvgId": "foxsports3.ar",
-        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fox-sports-3-ar.png",
+        "logo": "https://i.postimg.cc/RVnVryWW/FOXPremium2018.png",
         "url": "http://190.61.101.11:7050/play/a08u/index.m3u8?hls"
       },
       {
         "nombre": "Fox Sports Internacional",
         "tvgId": "foxsports3.ar",
-        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fox-sports-3-ar.png",
+        "logo": "https://i.postimg.cc/WzxNF6Hv/Fox-International-Channels-logo-20130122.png",
         "url": "http://190.61.101.11:7050/play/a08t/index.m3u8?hls"
       },
       {
         "nombre": "Fox Sports +",
         "tvgId": "foxsports3.ar",
-        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fox-sports-3-ar.png",
+        "logo": "https://i.postimg.cc/rp9wn4KM/images-(1).png",
         "url": "http://190.61.101.11:7050/play/a09c/index.m3u8?hls"
       },
       {
@@ -143,7 +143,7 @@
       {
         "nombre": "TV Azteca",
         "tvgId": "goltv.la",
-        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/channels/goltv.png",
+        "logo": "https://i.postimg.cc/8c7kznwr/Logotipo-de-TV-Azteca.png",
         "url": "http://209.87.175.160:5001/play/a0mb/index.m3u8?hls"
       }
     ]
@@ -272,73 +272,73 @@
       {
         "nombre": "DHE",
         "tvgId": "hbo.la",
-        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/hbo-ar.png",
+        "logo": "https://i.postimg.cc/nrS1NmcN/2560px-Canal-DHE-logo-svg.png",
         "url": "http://190.61.101.11:7050/play/a084/index.m3u8?hls"
         },
       {
         "nombre": "AMC",
         "tvgId": "hbo.la",
-        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/hbo-ar.png",
+        "logo": "https://i.postimg.cc/Dw8X5gs4/Amc-logo-2013.png",
         "url": "http://181.224.255.210:8001/play/a0f7/index.m3u8?hls"
         },
       {
         "nombre": "ATRES SERIES",
         "tvgId": "hbo.la",
-        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/hbo-ar.png",
+        "logo": "https://i.postimg.cc/MpWx9YyL/Atreseries.png",
         "url": "http://181.224.255.210:8001/play/a0rm/index.m3u8?hls"
         },
       {
         "nombre": "TLNOVELAS",
         "tvgId": "hbo.la",
-        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/hbo-ar.png",
+        "logo": "https://i.postimg.cc/v8r3PHvJ/Tlnovelas-logo-2021.png",
         "url": "http://190.61.101.11:7050/play/a04h/index.m3u8?hls"
         },
       {
         "nombre": "Las Esrellas",
         "tvgId": "hbo.la",
-        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/hbo-ar.png",
+        "logo": "https://i.postimg.cc/QCnWD33Q/Las-Estrellas-logo-(2016).png",
         "url": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8"
         },
       {
         "nombre": "PASIONES",
         "tvgId": "hbo.la",
-        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/hbo-ar.png",
+        "logo": "https://i.postimg.cc/KcBNKwMc/2560px-Pasiones-Tv-logo-svg.png",
         "url": "http://190.61.101.11:7050/play/a05j/index.m3u8?hls"
         },
       {
         "nombre": "DEPELICULAS",
         "tvgId": "hbo.la",
-        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/hbo-ar.png",
+        "logo": "https://i.postimg.cc/RFcQbXwy/De-pelicula-logo.png",
         "url": "http://45.167.2.101:8000/play/a0ru/index.m3u8"
       },
       {
         "nombre": "FMH MOVIE",
         "tvgId": "hbo.la",
-        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/hbo-ar.png",
+        "logo": "https://i.postimg.cc/7Zd3HpVn/logo-movies.png",
         "url": "http://190.102.247.126:8000/play/a00y/index.m3u8"
         },
       {
         "nombre": "MX PRIME",
         "tvgId": "hbo.la",
-        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/hbo-ar.png",
+        "logo": "https://i.postimg.cc/BZp2L8p0/Maxprime-logo.png",
         "url": "http://190.102.247.126:8000/play/a010/index.m3u8"
         },
       {
         "nombre": "STAR CHANNEL",
         "tvgId": "hbo.la",
-        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/hbo-ar.png",
+        "logo": "https://i.postimg.cc/kgfwJStx/Star-Channel-2021.png",
         "url": "http://190.61.101.11:7050/play/a077/index.m3u8?hls"
         },
       {
         "nombre": "LATINA",
         "tvgId": "hbo.la",
-        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/hbo-ar.png",
+        "logo": "https://i.postimg.cc/RF9nq9n6/Logo-latina-2014.png",
         "url": "http://181.224.255.210:8001/play/a0pk/index.m3u8?hls"
         },
       {
         "nombre": "MONY TV",
         "tvgId": "hbo.la",
-        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/hbo-ar.png",
+        "logo": "https://i.postimg.cc/1X7gWq7w/unnamed-(1).jpg",
         "url": "https://lbgo.bozztv.com/ssh101/ssh101/monitvhd/playlist.m3u8"
       },
       {
@@ -464,7 +464,7 @@
       {
         "nombre": "AMC",
         "tvgId": "amc.la",
-        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/amc-ar.png",
+        "logo": "https://i.postimg.cc/Dw8X5gs4/Amc-logo-2013.png",
         "url": "http://190.108.93.180:8000/play/a02v/index.m3u8"
       },
       {
