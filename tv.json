@@ -105,16 +105,34 @@
         "url": "http://190.217.66.92:8000/play/a0pj/index.m3u8u?hls"
       },
       {
+        "nombre": "Fox Sports",
+        "tvgId": "foxsports2.ar",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fox-sports-2-ar.png",
+        "url": "http://190.61.101.11:7050/play/a0a9/index.m3u8?hls"
+      },
+      {
         "nombre": "Fox Sports 2",
         "tvgId": "foxsports2.ar",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fox-sports-2-ar.png",
         "url": "http://24.152.53.3:8090/play/a011/index.m3u8?hls"
       },
       {
-        "nombre": "Fox Sports 3",
+        "nombre": "Fox Sports Premium",
         "tvgId": "foxsports3.ar",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fox-sports-3-ar.png",
-        "url": "https://example.com/foxsports3.m3u8"
+        "url": "http://190.61.101.11:7050/play/a08u/index.m3u8?hls"
+      },
+      {
+        "nombre": "Fox Sports Internacional",
+        "tvgId": "foxsports3.ar",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fox-sports-3-ar.png",
+        "url": "http://190.61.101.11:7050/play/a08t/index.m3u8?hls"
+      },
+      {
+        "nombre": "Fox Sports +",
+        "tvgId": "foxsports3.ar",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fox-sports-3-ar.png",
+        "url": "http://190.61.101.11:7050/play/a09c/index.m3u8?hls"
       },
       {
         "nombre": "TyC Sports",
@@ -123,10 +141,10 @@
         "url": "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8"
       },
       {
-        "nombre": "GolTV",
+        "nombre": "TV Azteca",
         "tvgId": "goltv.la",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/channels/goltv.png",
-        "url": "https://example.com/goltv.m3u8"
+        "url": "http:\\209.87.175.160:5001\play\a0mb\index.m3u8?hls"
       }
     ]
   },
@@ -252,7 +270,13 @@
         "url": "https://1nyaler.streamhostingcdn.top/stream/52/index.m3u8"
       },
       {
-        "nombre": "HBO",
+        "nombre": "Las Esrellas",
+        "tvgId": "hbo.la",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/hbo-ar.png",
+        "url": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8"
+      },
+      {
+      "nombre": "HBO",
         "tvgId": "hbo.la",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/hbo-ar.png",
         "url": "http://190.217.66.92:8000/play/a0pt/index.m3u8u?hls"
