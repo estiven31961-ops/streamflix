@@ -268,12 +268,78 @@
         "tvgId": "canal5.mx",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/canal-5-mx.png",
         "url": "https://1nyaler.streamhostingcdn.top/stream/52/index.m3u8"
-      },
+        },
+      {
+        "nombre": "DHE",
+        "tvgId": "hbo.la",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/hbo-ar.png",
+        "url": "http://190.61.101.11:7050/play/a084/index.m3u8?hls"
+        },
+      {
+        "nombre": "AMC",
+        "tvgId": "hbo.la",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/hbo-ar.png",
+        "url": "http://181.224.255.210:8001/play/a0f7/index.m3u8?hls"
+        },
+      {
+        "nombre": "ATRES SERIES",
+        "tvgId": "hbo.la",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/hbo-ar.png",
+        "url": "http://181.224.255.210:8001/play/a0rm/index.m3u8?hls"
+        },
+      {
+        "nombre": "TLNOVELAS",
+        "tvgId": "hbo.la",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/hbo-ar.png",
+        "url": "http://190.61.101.11:7050/play/a04h/index.m3u8?hls"
+        },
       {
         "nombre": "Las Esrellas",
         "tvgId": "hbo.la",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/hbo-ar.png",
         "url": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8"
+        },
+      {
+        "nombre": "PASIONES",
+        "tvgId": "hbo.la",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/hbo-ar.png",
+        "url": "http://190.61.101.11:7050/play/a05j/index.m3u8?hls"
+        },
+      {
+        "nombre": "DEPELICULAS",
+        "tvgId": "hbo.la",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/hbo-ar.png",
+        "url": "http://45.167.2.101:8000/play/a0ru/index.m3u8"
+      },
+      {
+        "nombre": "FMH MOVIE",
+        "tvgId": "hbo.la",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/hbo-ar.png",
+        "url": "http://190.102.247.126:8000/play/a00y/index.m3u8"
+        },
+      {
+        "nombre": "MX PRIME",
+        "tvgId": "hbo.la",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/hbo-ar.png",
+        "url": "http://190.102.247.126:8000/play/a010/index.m3u8"
+        },
+      {
+        "nombre": "STAR CHANNEL",
+        "tvgId": "hbo.la",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/hbo-ar.png",
+        "url": "http://190.61.101.11:7050/play/a077/index.m3u8?hls"
+        },
+      {
+        "nombre": "LATINA",
+        "tvgId": "hbo.la",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/hbo-ar.png",
+        "url": "http://181.224.255.210:8001/play/a0pk/index.m3u8?hls"
+        },
+      {
+        "nombre": "MONY TV",
+        "tvgId": "hbo.la",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/hbo-ar.png",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/monitvhd/playlist.m3u8"
       },
       {
       "nombre": "HBO",
