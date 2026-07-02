@@ -144,7 +144,7 @@
         "nombre": "TV Azteca",
         "tvgId": "goltv.la",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/channels/goltv.png",
-        "url": "http:\\209.87.175.160:5001\play\a0mb\index.m3u8?hls"
+        "url": "http://209.87.175.160:5001/play/a0mb/index.m3u8?hls"
       }
     ]
   },
