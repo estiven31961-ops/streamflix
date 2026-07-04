@@ -201,7 +201,7 @@
       {
         "nombre": "Cartoonito",
         "tvgId": "cartoonito.la",
-        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/channels/cartoonito.png",
+        "logo": "https://i.postimg.cc/SNZWXN9Z/Cartoonito-Logo-2021-svg.webp",
         "url": "http://190.61.101.11:7050/play/a08d/index.m3u8?hls"
       },
       {
@@ -219,7 +219,7 @@
       {
         "nombre": "Disney Jr",
         "tvgId": "disneyjr.la",
-        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/disney-junior-ar.png",
+        "logo": "https://i.postimg.cc/CxQH2LL0/2017-Disney-Junior-logo.png",
         "url": "http://190.61.101.11:7050/play/a08e/index.m3u8?hls"
       },
       {
@@ -231,13 +231,13 @@
       {
         "nombre": "Nick Jr",
         "tvgId": "nickjr.la",
-        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/nick-junior-ar.png",
+        "logo": "https://i.postimg.cc/5ySSKBj5/Nick-Jr-logo.png",
         "url": "http://181.78.4.250:8097/play/a0b8/index.m3u8"
       },
       {
         "nombre": "DREAMSWORK",
         "tvgId": "dreamworks.la",
-        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/nicktoons-ar.png",
+        "logo": "https://i.postimg.cc/dtGbvpTc/logo-Dream-Works-1.png",
         "url": "http://astra.fibernetisp.com.co/play/a0lo/index.m3u8"
       },
       {
@@ -249,7 +249,7 @@
       {
         "nombre": "Adult swim",
         "tvgId": "adultswim.la",
-        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/boomerang-ar.png",
+        "logo": "https://i.postimg.cc/jjDvqnkj/adult-swim-logo-white-text-2003-now-by-gaafar278-djo1qjt-fullview.png",
         "url": "http://190.61.101.11:7050/play/a08g/index.m3u8?hls"
       },
       {
