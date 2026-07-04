@@ -193,10 +193,10 @@
         "url": "http://45.166.93.156:9999/play/a0iu/index.m3u8"
       },
       {
-        "nombre": "Cartoon Network",
+        "nombre": "BABY TV",
         "tvgId": "cartoon network",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/cartoon-network-ar.png",
-        "url": "https://example.com/cartoon.m3u8"
+        "url": "http://190.108.93.180:8000/play/a01w/index.m3u8"
       },
       {
         "nombre": "Cartoonito",
@@ -232,7 +232,7 @@
         "nombre": "Nick Jr",
         "tvgId": "nickjr.la",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/nick-junior-ar.png",
-        "url": "http://190.61.101.11:7050/play/a092/index.m3u8?hls"
+        "url": "http://181.78.4.250:8097/play/a0b8/index.m3u8"
       },
       {
         "nombre": "DREAMSWORK",
