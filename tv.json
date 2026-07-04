@@ -577,7 +577,7 @@
         "nombre": "France 24 Español",
         "tvgId": "france24espanol.tv",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-24-fr.png",
-        "url": "https://example.com/france24.m3u8"
+        "url": "http://181.119.108.43:9001/play/a0q7/index.m3u8"
       }
     ]
   },
