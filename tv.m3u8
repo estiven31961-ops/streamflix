@@ -226,7 +226,7 @@ https://example.com/fxm.m3u8
 http://190.108.93.180:8000/play/a02v/index.m3u8
 
 #EXTINF:-1 tvg-id="cinecanal.la" tvg-logo="https://i.postimg.cc/KYbvxtYV/Cinecanal-LA.png" group-title="Cine y Series",Cinecanal
-http://45.190.184.79:5800/play/a03y/index.m3u8
+http://190.108.93.180:8000/play/a03y/index.m3u8
 
 #EXTINF:-1 tvg-id="kdrama.tv" tvg-logo="https://i.postimg.cc/8CwDG39V/png-clipart-orange-and-white-logo-illustration-korean-drama-film-director-japanese-television-drama.png" group-title="Cine y Series",K-Drama+
 https://ca7c8b78.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0tEcmFtYV9ITFM/manifest.m3u8
