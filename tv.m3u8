@@ -28,7 +28,7 @@ http://190.108.83.69:8000/play/a05w/index.m3u8
 http://181.78.84.78:8910/play/a0gr/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="Win.Sports+.co" tvg-logo="https://i.postimg.cc/1tsZW4sN/win-sports-1698354.png" group-title="Deportes",Win Sports Plus
-http://190.217.66.92:8000/play/a0qs/index.m3u8u?hls,http://181.78.84.78:8910/play/a01q/index.m3u8?hls
+http://181.78.84.78:8910/play/a01q/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="ESPN.co" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/espn-ar.png" group-title="Deportes",ESPN 1
 http://190.108.93.180:8000/play/a03l/index.m3u8
