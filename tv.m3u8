@@ -163,7 +163,7 @@ http://181.224.255.210:8001/play/a0pk/index.m3u8?hls
 https://lbgo.bozztv.com/ssh101/ssh101/monitvhd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="hbo.la" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/hbo-ar.png" group-title="Cine y Series",HBO
-http://190.217.66.92:8000/play/a0pt/index.m3u8u?hls
+http://190.108.93.180:8000/play/a02z/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO.2.co" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/hbo-2-ar.png" group-title="Cine y Series",HBO 2
 http://181.224.255.210:8001/play/a0sv/index.m3u8?hls
