@@ -129,7 +129,7 @@ https://1nyaler.streamhostingcdn.top/stream/52/index.m3u8
 #EXTINF:-1 tvg-id="hbo.la" tvg-logo="https://i.postimg.cc/nrS1NmcN/2560px-Canal-DHE-logo-svg.png" group-title="Cine y Series",DHE
 http://190.61.101.11:7050/play/a084/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="hbo.la" tvg-logo="https://i.postimg.cc/Dw8X5gs4/Amc-logo-2013.png" group-title="Cine y Series",AMC
+#EXTINF:-1 tvg-id="hbo.la" tvg-logo="https://i.postimg.cc/Dw8X5gs4/Amc-logo-2013.png" group-title="Cine y Series",HBO
 http://190.108.93.180:8000/play/a02v/index.m3u8
 
 #EXTINF:-1 tvg-id="hbo.la" tvg-logo="https://i.postimg.cc/MpWx9YyL/Atreseries.png" group-title="Cine y Series",ATRES SERIES
