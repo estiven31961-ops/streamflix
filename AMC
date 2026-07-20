@@ -31,7 +31,7 @@ http://190.60.45.197:2222/play/a03z/index.m3u8?hls
 http://190.217.66.92:8000/play/a0qs/index.m3u8u?hls
 
 #EXTINF:-1 tvg-id="espn1.la" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/espn-ar.png" group-title="Deportes",ESPN 1
-https://1nyaler.streamhostingcdn.top/stream/99/index.m3u8
+http://190.108.93.180:8000/play/a03l/index.m3u8
 
 #EXTINF:-1 tvg-id="espn2.la" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/espn-2-ar.png" group-title="Deportes",ESPN 2
 http://190.108.93.180:8000/play/a03e/index.m3u8
@@ -130,7 +130,7 @@ https://1nyaler.streamhostingcdn.top/stream/52/index.m3u8
 http://190.61.101.11:7050/play/a084/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="hbo.la" tvg-logo="https://i.postimg.cc/Dw8X5gs4/Amc-logo-2013.png" group-title="Cine y Series",AMC
-http://181.224.255.210:8001/play/a0f7/index.m3u8?hls
+http://190.108.93.180:8000/play/a02v/index.m3u8
 
 #EXTINF:-1 tvg-id="hbo.la" tvg-logo="https://i.postimg.cc/MpWx9YyL/Atreseries.png" group-title="Cine y Series",ATRES SERIES
 http://181.224.255.210:8001/play/a0rm/index.m3u8?hls
@@ -175,10 +175,10 @@ http://181.224.255.210:8001/play/a0nv/index.m3u8?hls
 http://181.224.255.210:8001/play/a0re/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="hbomundi.la" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/hbo-mundi-ar.png" group-title="Cine y Series",HBO Mundi
-http://astra.fibernetisp.com.co/play/a0di/index.m3u8
+http://190.108.93.180:8000/play/a01q/index.m3u8
 
 #EXTINF:-1 tvg-id="hbopop.la" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/hbo-pop-ar.png" group-title="Cine y Series",HBO Pop
-http://astra.fibernetisp.com.co/play/a0dj/index.m3u8
+http://190.108.93.180:8000/play/a03f/index.m3u8
 
 #EXTINF:-1 tvg-id="hboxtreme.la" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/hbo-xtreme-ar.png" group-title="Cine y Series",HBO Xtreme
 http://181.224.255.210:8001/play/a0nw/index.m3u8?hls
@@ -196,7 +196,7 @@ http://190.108.93.180:8000/play/a03x/index.m3u8
 http://190.217.66.92:8000/play/a0pq/index.m3u8u?hls
 
 #EXTINF:-1 tvg-id="axn.la" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/axn-ar.png" group-title="Cine y Series",AXN
-http://45.190.184.79:5800/play/a04x/index.m3u8
+http://190.108.93.180:8000/play/a043/index.m3u8
 
 #EXTINF:-1 tvg-id="sonychannel.la" tvg-logo="https://i.postimg.cc/3w24ZKkg/sony-channel-latam-logo.png" group-title="Cine y Series",Sony Channel
 http://190.108.93.180:8000/play/a041/index.m3u8
@@ -205,7 +205,7 @@ http://190.108.93.180:8000/play/a041/index.m3u8
 http://190.108.93.180:8000/play/a042/index.m3u8
 
 #EXTINF:-1 tvg-id="universaltv.la" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/universal-tv-ar.png" group-title="Cine y Series",Universal TV
-http://45.190.184.79:5800/play/a063/index.m3u8
+http://190.108.93.180:8000/play/a02o/index.m3u8
 
 #EXTINF:-1 tvg-id="studiouniversal.la" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/studio-universal-ar.png" group-title="Cine y Series",Studio Universal
 http://190.61.101.11:7050/play/a07u/index.m3u8?hls
@@ -235,7 +235,7 @@ https://ca7c8b78.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 http://190.108.93.180:8000/play/a03v/index.m3u8
 
 #EXTINF:-1 tvg-id="history2.la" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/history-2-ar.png" group-title="Documentales",History 2
-https://example.com/history2.m3u8
+http://190.108.93.180:8000/play/a00n/index.m3u8
 
 #EXTINF:-1 tvg-id="discovery.la" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/discovery-channel-ar.png" group-title="Documentales",Discovery Channel
 http://190.108.93.180:8000/play/a03u/index.m3u8
