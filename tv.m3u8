@@ -25,10 +25,10 @@ http://181.64.27.65:8000/play/a0dq/index.m3u8
 http://190.108.83.69:8000/play/a05w/index.m3u8
 
 #EXTINF:-1 tvg-id="Win.Sports.co" tvg-logo="https://i.postimg.cc/rsDZgL0d/Win-Nuevo-WEB-940x400-png.webp" group-title="Deportes",Win Sports
-http://190.60.45.197:2222/play/a03z/index.m3u8?hls
+http://181.78.84.78:8910/play/a0gr/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="Win.Sports+.co" tvg-logo="https://i.postimg.cc/1tsZW4sN/win-sports-1698354.png" group-title="Deportes",Win Sports Plus
-http://190.217.66.92:8000/play/a0qs/index.m3u8u?hls
+http://190.217.66.92:8000/play/a0qs/index.m3u8u?hls,http://181.78.84.78:8910/play/a01q/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="ESPN.co" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/espn-ar.png" group-title="Deportes",ESPN 1
 http://190.108.93.180:8000/play/a03l/index.m3u8
@@ -73,10 +73,10 @@ https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-
 http://209.87.175.160:5001/play/a0mb/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="caracol" tvg-logo="https://i.postimg.cc/NGyYh13Q/Caracol-TV-HD-logo-svg.webp" group-title="Nacionales",Caracol TV
-http://190.60.45.197:2222/play/a09o/index.m3u8?hls
+http://181.78.84.78:8910/play/a036/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="rcn" tvg-logo="https://i.postimg.cc/V6rhhFJc/RCN-Digital-Logo-Vector-svg-300x172.png" group-title="Nacionales",RCN HD
-http://181.78.17.52:8000/play/a0ec/index.m3u8
+http://181.78.84.78:8910/play/a03h/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="Señal.Colombia.co" tvg-logo="https://i.postimg.cc/65LmFq5H/senalco.png" group-title="Nacionales",Señal Colombia
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
@@ -162,7 +162,7 @@ http://181.224.255.210:8001/play/a0pk/index.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/1X7gWq7w/unnamed-(1).jpg" group-title="Cine y Series",MONY TV
 https://lbgo.bozztv.com/ssh101/ssh101/monitvhd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="hbo.la" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/hbo-ar.png" group-title="Cine y Series",HBO
+#EXTINF:-1 tvg-id="HBO.co" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/hbo-ar.png" group-title="Cine y Series",HBO
 http://190.108.93.180:8000/play/a02z/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO.2.co" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/hbo-2-ar.png" group-title="Cine y Series",HBO 2
